@@ -12,8 +12,8 @@
 #include <iomanip>
 using namespace std;
 
-//----------
-// Make a line for Function Prototype for getListprime Here
+//--------
+void getlistprime(int beggining = 20 , int end = 100);
 //----------
 
 int main()
